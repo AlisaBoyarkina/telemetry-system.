@@ -1,0 +1,3 @@
+/Users/alice/telemetry-system/telemetry-system/build/CMakeFiles/telemetry_system.dir
+/Users/alice/telemetry-system/telemetry-system/build/CMakeFiles/edit_cache.dir
+/Users/alice/telemetry-system/telemetry-system/build/CMakeFiles/rebuild_cache.dir
